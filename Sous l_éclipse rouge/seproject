@@ -1,8 +1,8 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = 
+selected-members = :Sc1/Soutien d_histoire/Griffonnages abscons.eon
 first-row = 0
-open-folders = :Sc1:Sc1/Lieux:Sc2
+open-folders = :Sc1:Sc1/Act:Sc1/Intrigue:Sc1/Soutien d_histoire
 notes = 
 res-id = zaratan
 type = PROJECT
